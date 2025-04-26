@@ -1,0 +1,66 @@
+Plant ID,Disease/Symptomes,Herbal plant,Preparation method,Dosage,Possible Reactions,Image URL
+1,"Respiratory issues, Cough, Cold",Tulsi (Holy Basil),Boil fresh leaves in water for tea or use in steam inhalation,1-2 cups of tea daily,May cause mild throat irritation or allergic reaction,https://example.com/respi-tulsi.jpg
+2,"Skin issues, Fever, Infection",Neem,"Boil leaves for tea, or use oil for topical application",1 cup tea or apply oil daily,"Skin irritation, mild nausea if taken excessively",https://example.com/skin-neem.jpg
+3,"Stress, Anxiety, Fatigue",Ashwagandha (Withania somnifera),Powder or capsules,300-500 mg daily,"May cause drowsiness, upset stomach, or headache",https://example.com/stress-ashwagandha.jpg
+4,"Skin issues, Digestive health, Burns",Aloe Vera,Fresh gel from leaves or as a juice,Apply gel topically or 1-2 tbsp of juice,"Skin irritation, diarrhea if consumed excessively",https://example.com/skin-aloe.jpg
+5,"Digestive issues, Inflammation",Ginger,"Fresh or dried root, tea, or capsules",1-2 cups of tea daily or 500 mg capsules,"Heartburn, mild stomach upset",https://example.com/digest-ginger.jpg
+6,"Immunity boost, Fever, Detoxification",Guduchi (Tinospora cordifolia),Boil stem for tea or in capsules,500 mg capsule or 1 cup tea,May cause mild gastrointestinal discomfort,https://example.com/immunity-guduchi.jpg
+7,"Memory, Focus, Cognitive function",Brahmi (Bacopa monnieri),Powder or capsules,300 mg daily,Mild digestive issues or headache at higher doses,https://example.com/memory-brahmi.jpg
+8,"Skin health, Antioxidant, Mood",Kesar (Saffron),"Powder or oil for topical use, infusion",1-2 strands in warm water daily,Allergic reactions in sensitive individuals,https://example.com/skin-kesar.jpg
+9,"Nervous system disorders, Stress",Indian Snake Root (Rauvolfia serpentina),Capsules or extract,1-2 capsules daily,"Drowsiness, nausea, or low blood pressure",https://example.com/nervous-snake.jpg
+10,"Digestive health, Constipation",Triphala,Powder mixed with warm water or as a tablet,1-2 tsp daily,Mild gastrointestinal discomfort or diarrhea,https://example.com/digest-triphala.jpg
+11,"Digestive health, Respiratory issues",Baheda (Terminalia bellerica),"Powder or dried fruit, mixed in warm water",1 tsp daily,May cause mild stomach upset,https://example.com/digest-baheda.jpg
+12,"Immunity boost, Digestive health",Amla (Indian Gooseberry),"Fresh fruit, powder, or juice",1-2 tbsp of powder or juice daily,Stomach discomfort or diarrhea in excess,https://example.com/immunity-amla.jpg
+13,"Digestive health, Laxative",Tamarind,Fresh pulp or dried pulp in water,1-2 tsp pulp in water daily,Diarrhea or dehydration in excess,https://example.com/digest-tamarind.jpg
+14,"Musculoskeletal pain, Inflammation",Nirgundi,Boil leaves for tea or apply oil topically,1-2 cups of tea daily or apply oil,Skin irritation or stomach upset if overused,https://example.com/muscle-nirgundi.jpg
+15,"Digestive health, Detoxification",Haritaki (Terminalia chebula),Powder or as a tablet,1 tsp powder daily,Diarrhea or stomach cramps if overused,https://example.com/digest-haritaki.jpg
+16,"Anti-inflammatory, Antioxidant",Turmeric,"Powder in milk, tea, or as a supplement",500-1000 mg daily,"Stomach upset, or allergic reaction",https://example.com/anti-turmeric.jpg
+17,"Joint pain, Inflammation",Bala (Sida cordifolia),Powder or capsule,500 mg daily,"Stomach discomfort, possible drowsiness",https://example.com/joint-bala.jpg
+18,"Reproductive health, Hormonal balance",Shatavari (Asparagus racemosus),Powder or capsules,500 mg daily,"Mild stomach upset, bloating",https://example.com/reproductive-shatavari.jpg
+19,"Anxiety, Depression, Stress",Vanda (Vanda roxburghii),Root powder or extract,300 mg daily,Mild sedation or headache,https://example.com/anxiety-vanda.jpg
+20,"Skin health, Antioxidant, Cooling",Sandalwood,Powder or oil for topical use,Apply oil or powder as needed,Skin irritation in sensitive individuals,https://example.com/skin-sandalwood.jpg
+21,"Mental clarity, Cognitive function",Sweet Flag (Acorus calamus),Powder or infusion,500 mg per day,May cause nausea or dizziness if overused,https://example.com/mental-acorus.jpg
+22,"Respiratory issues, Cough",Patharchur,Leaves in tea or decoction,1-2 cups per day,Mild throat irritation or allergic reaction,https://example.com/respi-patharchur.jpg
+23,"Respiratory issues, Antioxidant",Flame of the Forest (Butea monosperma),Decoction of flowers or powder,1 cup of decoction daily,"Possible allergic reactions, mild stomach upset",https://example.com/respi-butea.jpg
+24,"Skin care, Hair health",Hibiscus,Tea from petals or topical application,1-2 cups of tea daily or apply paste topically,Mild irritation if used excessively,https://example.com/skin-hibiscus.jpg
+25,"Nutrition, Immune support",Moringa (Moringa oleifera),"Powder in water, or capsules",1-2 tsp powder or 500 mg capsules,Stomach upset or diarrhea in excess,https://example.com/nutrition-moringa.jpg
+26,"Respiratory health, Antioxidant",Long Pepper (Piper longum),Powder or in tea,500 mg daily,May cause heartburn or digestive discomfort,https://example.com/respi-longpepper.jpg
+27,"Digestive issues, Inflammation",Cinnamon,"Powder in warm water, or add to tea",1-2 tsp daily,May cause stomach upset or allergic reactions,https://example.com/digest-cinnamon.jpg
+28,"Anxiety, Stress, Mental fatigue",Shankhpushpi,Powder mixed with water or milk,500 mg to 1g daily,Mild drowsiness or headache,https://example.com/anxiety-shankhpushpi.jpg
+29,"Skin issues, Detoxification",Manjistha (Rubia cordifolia),Powder mixed with water or as a tablet,1 tsp daily,Mild digestive upset or allergic reactions,https://example.com/skin-manjistha.jpg
+30,"Respiratory health, Fever",Kadamba,Decoction of flowers or powder,1 cup decoction daily,May cause mild stomach upset,https://example.com/respi-kadamba.jpg
+31,"Digestive health, Bloating",Cumin (Cuminum cyminum),Seeds in tea or as a spice in food,1-2 tsp daily,May cause heartburn or allergic reaction,https://example.com/digest-cumin.jpg
+32,"Digestive health, Nausea",Mint (Mentha),Fresh leaves for tea or in food,1-2 cups of tea daily,May cause heartburn or allergic reactions,https://example.com/digest-mint.jpg
+33,"Energy boost, Fatigue, Focus",Ginseng (Panax ginseng),Root powder or capsules,200-400 mg daily,"Insomnia, headache, or upset stomach",https://example.com/energy-ginseng.jpg
+34,"Cognitive function, Memory, Focus",Indian Pennywort (Centella Asiatica),Fresh leaves in water or capsules,300-500 mg daily,Mild digestive discomfort or skin irritation,https://example.com/cognitive-pennywort.jpg
+35,"Digestive issues, Constipation",Bael (Aegle marmelos),Fresh fruit or dried powder mixed with water,1-2 tbsp daily,May cause mild diarrhea or upset stomach,https://example.com/digest-bael.jpg
+36,"Digestive health, Bloating, Gas",Fennel (Foeniculum vulgare),Seeds in tea or chew seeds,1-2 cups of tea daily,May cause mild heartburn or allergic reactions,https://example.com/digest-fennel.jpg
+37,"Digestive issues, Pain",Chili Pepper (Capsicum annuum),"Fresh or dried peppers, powder, or in food",1-2 tsp powder or in food,May cause stomach irritation or gastrointestinal discomfort,https://example.com/digest-chili.jpg
+38,"Digestive health, Nausea, Gas",Cardamom (Elettaria cardamomum),Seeds in tea or added to food,1-2 pods daily or 1 tsp powder,Allergic reactions or stomach upset if overused,https://example.com/digest-cardamom.jpg
+39,"Menstrual pain, Hormonal balance",Black Cohosh (Actaea racemosa),Capsules or tincture,40-80 mg daily,"May cause stomach upset, dizziness, or headache",https://example.com/menstrual-blackcohosh.jpg
+40,"Cold, Flu, Immune Support",Elderberry (Sambucus nigra),"Syrup, tea, or capsules",1-2 tbsp of syrup or 300 mg capsules,Stomach upset or allergic reaction in sensitive individuals,https://example.com/cold-elderberry.jpg
+41,"Heart health, Blood pressure",Hawthorn (Crataegus monogyna),Tea from dried berries or capsules,300-500 mg daily,"May cause dizziness, fatigue, or nausea at high doses",https://example.com/heart-hawthorn.jpg
+42,"Respiratory issues, Immune support",Licorice Root (Glycyrrhiza glabra),Tea or capsules,1-2 cups of tea or 200-500 mg capsules,High blood pressure or potassium imbalances in excess,https://example.com/respi-licorice.jpg
+43,"Menstrual issues, Hormonal balance",Red Clover (Trifolium pratense),Tea from flowers or capsules,1-2 cups of tea or 200 mg capsules,"May cause blood thinning, allergic reactions",https://example.com/menstrual-redclover.jpg
+44,"Digestive health, Immune support",Peppermint (Mentha piperita),Tea from leaves or chew fresh leaves,1-2 cups per day,May cause heartburn or allergic reactions in sensitive individuals,https://example.com/digest-peppermint.jpg
+45,"Memory, Mental clarity",Sage (Salvia officinalis),Tea from dried leaves or fresh leaves,1-2 cups per day,May cause nausea or dizziness at high doses,https://example.com/memory-sage.jpg
+46,"Depression, Anxiety, Mood disorders",St. John's Wort (Hypericum perforatum),"Capsules, tablets, or tea",300 mg-1g daily,"May cause photosensitivity, dry mouth, or digestive upset",https://example.com/depression-stjohnswort.jpg
+47,"Immune support, Cold, Flu",Echinacea (Echinacea purpurea),Tea from flowers or capsules,300 mg daily,"Allergic reactions, especially in those allergic to daisies",https://example.com/immune-echinacea.jpg
+48,"Liver detox, Skin issues",Burdock (Arctium lappa),Root decoction or capsules,500 mg daily,May cause mild gastrointestinal discomfort,https://example.com/liver-burdock.jpg
+49,"Relaxation, Sleep, Digestive health",Chamomile (Matricaria chamomilla),Tea from dried flowers,1-2 cups per day,May cause allergic reactions or drowsiness,https://example.com/relaxation-chamomile.jpg
+50,"Anxiety, Insomnia, Skin irritation",Lavender (Lavandula angustifolia),Essential oil for aromatherapy or tea,2-3 drops of essential oil or 1-2 cups of tea,"Mild drowsiness, skin irritation, or headaches if overused",https://example.com/anxiety-lavender.jpg
+51,"Skin health, Wound healing, Antioxidant",Marigold (Calendula officinalis),Fresh petals or as a cream,Apply cream or tincture topically,Skin irritation in sensitive individuals,https://example.com/skin-marigold.jpg
+52,"Liver detox, Antioxidant, Skin health",Milk Thistle (Silybum marianum),Capsules or tea,200-400 mg daily,Stomach upset or diarrhea,https://example.com/liver-milkthistle.jpg
+53,"Urinary tract infections, Antioxidant",Cranberry (Vaccinium macrocarpon),Juice or capsules,1-2 cups of juice daily,May cause stomach upset or kidney stones if taken excessively,https://example.com/urinary-cranberry.jpg
+54,"Liver detox, Digestion",Dandelion (Taraxacum officinale),Tea from roots or leaves,1-2 cups of tea daily,May cause diarrhea or allergic reactions in some individuals,https://example.com/digest-dandelion.jpg
+55,"Digestive health, Wounds, Inflammation",Yarrow (Achillea millefolium),Tea or topical application,1-2 cups per day,Skin irritation or mild allergic reactions,https://example.com/digest-yarrow.jpg
+56,"Digestive issues, Constipation",Slippery Elm (Ulmus rubra),Powder in water or as lozenges,1-2 tsp powder daily,May cause nausea if consumed in excess,https://example.com/digest-slipperyelm.jpg
+57,"Constipation, Laxative",Senna (Senna alexandrina),Tea or tablets from dried leaves,1-2 tablets at bedtime,"Diarrhea, abdominal cramps, or dehydration",https://example.com/constipation-senna.jpg
+58,"Digestive health, Inflammation",Acacia (Acacia senegal),Powder mixed with water or as capsules,1-2 tsp per day,Mild digestive upset,https://example.com/digest-acacia.jpg
+59,"Skin health, Antioxidant, Wound healing",Marigold (Calendula officinalis),Fresh petals or as a cream,Apply cream or tincture topically,Skin irritation or allergic reactions in sensitive individuals,https://example.com/skin-marigold.jpg
+60,"Cardiovascular health, Blood pressure",Arjuna (Terminalia arjuna),Powder or as capsules,500 mg to 1g daily,"Stomach upset, dizziness, or allergic reactions",https://example.com/cardiovascular-arjuna.jpg
+61,"Digestion, Blood sugar management",Curry Leaf (Murraya koenigii),Fresh leaves in food or tea,1-2 tsp leaves daily,Mild stomach upset or allergic reaction,https://example.com/digest-curryleaf.jpg
+62,"Blood sugar regulation, Digestion",Bittermelon (Momordica charantia),"Fresh juice, capsules, or tea",1 cup juice daily or 500 mg capsules,"Low blood sugar, diarrhea, or abdominal pain",https://example.com/digest-bittermelon.jpg
+63,"Digestive health, Gas",Coriander (Coriandrum sativum),Fresh leaves or seeds in food or tea,1-2 tsp daily,May cause digestive upset or allergic reactions,https://example.com/digest-coriander.jpg
+64,"Antioxidant, Digestive health",Pomegranate (Punica granatum),Juice or fresh seeds,1-2 cups of juice daily,Stomach upset or allergic reactions,https://example.com/digest-pomegranate.jpg
+65,"Digestive health, Inflammation",Mustard (Brassica juncea),Seeds in food or as a topical paste,1-2 tsp seeds daily,Stomach irritation or allergic reactions,https://example.com/digest-mustard.jpg
